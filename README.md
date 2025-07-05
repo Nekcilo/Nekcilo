@@ -9,7 +9,7 @@
 - 📓 Final year Bsc(Hons) Computer Games Production student
   
 
-- ⭐ Specializing in Technical Games Design
+- ⭐ Specializing in Programming + Design
   
 
 - 🎥 Game Development content creator

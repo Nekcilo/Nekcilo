@@ -42,9 +42,7 @@
 <br/>
 
 ## Socials
-<div align="center">  
 <a href="https://linkedin.com/in/nekcilo" target="blank"><img style="display: inline-block; margin-right: 50px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nekcilo" height="40" width="40" /></a>
 <a href="https://www.youtube.com/c/@nekcilodev" target="blank"><img style="display: inline-block;;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@nekcilodev" height="40" width="40" /></a>
-</div>
 <br/>
 

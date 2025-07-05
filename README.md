@@ -4,7 +4,7 @@
 <br/>
 
 ## About me
-<table><tr><td valign="top" halign="centre" width="50%">
+<table><tr><td valign="top" halign="center" width="50%">
 
 - 📓 Final year Bsc(Hons) Computer Games Production student
   

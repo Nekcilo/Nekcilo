@@ -31,7 +31,7 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nekcilo&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&text_color=69140E&icon_color=ffffff&bg_color=DEG,ff9a01,ffbc14" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Nekcilo&show_icons=true&count_private=true&text_bold=false&hide_border=true&title_color=ffffff&text_color=69140E&icon_color=ffffff&bg_color=DEG,ff9a01,ffbc14" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 

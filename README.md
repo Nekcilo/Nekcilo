@@ -4,7 +4,7 @@
 <br/>
 
 ## About me
-<table><tr><td valign="top" halign="center" width="50%">
+<div align="center"><table><tr><td valign="top" halign="center" width="50%">
 
 - 📓 Final year Bsc(Hons) Computer Games Production student
   
@@ -14,7 +14,7 @@
 
 - 🎥 Game Development content creator
 
-</td></tr></table>  
+</td></tr></table></div>
 
 <br/>
 
@@ -28,8 +28,8 @@
 
 <br/>   
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+## Github Stats 
+<div align="center"><table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Nekcilo&show_icons=true&count_private=true&text_bold=false&hide_border=true&title_color=ffffff&text_color=69140E&icon_color=ffffff&bg_color=DEG,ff9a01,ffbc14" align="left" style="width: 100%" />
 
@@ -37,7 +37,7 @@
 
 <img src="https://github-readme-stats-nekcilos-projects.vercel.app//api/top-langs/?username=Nekcilo&hide_border=true&hide_progress=true&title_color=ffffff&text_color=69140E&icon_color=ffffff&bg_color=DEG,ff9a01,ffbc14" align="left" style="width: 90%" />
 
-</td></tr></table>  
+</td></tr></table></div>
 
 <br/>
 

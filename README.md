@@ -4,7 +4,7 @@
 <br/>
 
 ## About me
-<div align="center"><table><tr><td valign="top" halign="center" width="50%">
+<div align="center">
 
 - 📓 Final year Bsc(Hons) Computer Games Production student
   
@@ -14,7 +14,7 @@
 
 - 🎥 Game Development content creator
 
-</td></tr></table></div>
+</div>
 
 <br/>
 

@@ -4,7 +4,7 @@
 <br/>
 
 ## About me
-<div align="center"><table cellspacing="0" cellpadding="0"><tr><td valign="top" halign="center" width="50%">
+<div align="center"><table cellspacing="0" cellpadding="0"><tr><td valign="top" halign="center" width="50%" markdown="span" style="padding: 0.5vw; border: none; max-width:100%; max-height:10%; background: transparent;">
 
 - 📓 Final year Bsc(Hons) Computer Games Production student
   
@@ -29,11 +29,11 @@
 <br/>   
 
 ## Github Stats 
-<div align="center"><table cellspacing="0" cellpadding="0"><tr><td valign="top" width="50%">
+<div align="center"><table><tr><td valign="top" width="50%" markdown="span" style="padding: 0.5vw; border: none; max-width:100%; max-height:10%; background: transparent;">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Nekcilo&show_icons=true&count_private=true&text_bold=false&hide_border=true&title_color=ffffff&text_color=69140E&icon_color=ffffff&bg_color=DEG,ff9a01,ffbc14" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="50%" markdown="span" style="padding: 0.5vw; border: none; max-width:100%; max-height:10%; background: transparent;">
 
 <img src="https://github-readme-stats-nekcilos-projects.vercel.app//api/top-langs/?username=Nekcilo&hide_border=true&hide_progress=true&title_color=ffffff&text_color=69140E&icon_color=ffffff&bg_color=DEG,ff9a01,ffbc14" align="left" style="width: 90%" />
 

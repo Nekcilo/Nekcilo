@@ -48,15 +48,15 @@
 <!-- <a href="https://linkedin.com/in/nekcilo" target="blank"><img style="padding: 0px 50px" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nekcilo" height="40" width="40" /></a> -->
 <!-- <a href="https://www.youtube.com/c/@nekcilodev" target="blank"><img style="padding: 0px 50px" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@nekcilodev" height="40" width="40" /></a> -->
 
-<div align="center"><table><tr><td valign="top" width="45%" markdown="span" style="padding: 0.5vw; border: none; max-width:100%; max-height:10%; background: transparent;">
+<div align="center"><table><tr><td valign="top" width="50%" markdown="span" style="padding: 0.5vw; border: none; max-width:100%; max-height:10%; background: transparent;">
 
 [ :dango: LinkedIn](https://pages.github.com/)
 
-</td><td valign="top" width="45%" markdown="span" style="padding: 0.5vw; border: none; max-width:100%; max-height:10%; background: transparent;">
+</td><td valign="top" width="50%" markdown="span" style="padding: 0.5vw; border: none; max-width:100%; max-height:10%; background: transparent;">
 
-[Youtube](https://pages.github.com/) 
+[ :sushi: Youtube](https://pages.github.com/) 
 
-</td><td valign="top" width="45%" markdown="span" style="padding: 0.5vw; border: none; max-width:100%; max-height:10%; background: transparent;">
+</td><td valign="top" width="50%" markdown="span" style="padding: 0.5vw; border: none; max-width:100%; max-height:10%; background: transparent;">
 
 [ :mango: Carrd](https://pages.github.com/)
 

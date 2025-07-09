@@ -50,15 +50,15 @@
 
 <div align="center"><table><tr><td valign="top" width="50%" markdown="span" style="padding: 0.5vw; border: none; max-width:100%; max-height:10%; background: transparent;">
 
-[ :dango: LinkedIn](https://pages.github.com/)
+[ :dango:LinkedIn](https://pages.github.com/)
 
 </td><td valign="top" width="50%" markdown="span" style="padding: 0.5vw; border: none; max-width:100%; max-height:10%; background: transparent;">
 
-[ :sushi: Youtube](https://pages.github.com/) 
+[ :sushi:Youtube](https://pages.github.com/) 
 
 </td><td valign="top" width="50%" markdown="span" style="padding: 0.5vw; border: none; max-width:100%; max-height:10%; background: transparent;">
 
-[ :mango: Carrd](https://pages.github.com/)
+[ :mango:Carrd](https://pages.github.com/)
 
 </td></tr></table></div>
 

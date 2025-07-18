@@ -23,15 +23,15 @@
 
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
   <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="40" width="40" />
-</a>&nbsp;
+</a>
 
 <a href="https://unity.com/" target="_blank">
   <img src="https://cdn.sanity.io/images/fuvbjjlp/production/2495ab2daae11fd3ed5d6b84477d513869f9a1b4-89x100.png" alt="Unity" height="40" width="40" />
-</a>&nbsp;
+</a>
 
 <a href="https://www.unrealengine.com/en-US/unreal-engine-5" target="_blank">
   <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal" height="40" width="40" />
-</a>&nbsp;
+</a>
 
 <a href="https://godotengine.org" target="_blank">
   <img src="https://godotengine.org/assets/press/icon_color.png" alt="Godot" height="40" width="40" />
